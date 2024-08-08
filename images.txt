@@ -1,4 +1,4 @@
 nginx
 mysql
 redis
-xxl-job-admin:2.4.1
+xuxueli/xxl-job-admin:2.4.1
