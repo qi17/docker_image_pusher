@@ -1,4 +1,2 @@
-nginx
-mysql
-redis
-xuxueli/xxl-job-admin:2.4.1
+mysql:8.0.39
+redis:7.0
